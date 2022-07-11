@@ -17,6 +17,6 @@ From the cloned repository:
     conda activate d2torch
     python .\src\train.py
 
-With Diablo II:Resurrected running (in windowed mode):
+With Diablo II: Resurrected running (in windowed mode):
 
     python .\src\infer.py
