@@ -2,7 +2,7 @@
 
 # d2torch
 
-This small project provides a foundation on which to build object detection models in Diablo II: Resurrected. It uses [PyTorch](https://pytorch.org/) as a backend; the current model is `FasterRCNN` with a `mobilenet_v2` backbone. The animation shown depicts the model performance after 10 epochs of training and ca. 5 minutes of training time (NVIDIA GTX 1080 Ti).
+This small project provides a foundation on which to build object detection models in Diablo II: Resurrected. It uses [PyTorch](https://pytorch.org/) as a backend; the current model uses `FasterRCNN` with a `mobilenet_v2` backbone. The animation shown depicts the model performance after 10 epochs of training which required ca. 5 minutes of training time (NVIDIA GTX 1080 Ti).
 
 ## Setup
 
