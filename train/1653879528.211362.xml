@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validate</folder>
+	<filename>1653879528.211362.jpg</filename>
+	<path>C:\Users\Jeremy\OneDrive\Code\airlines\validate\1653879528.211362.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fallen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>305</ymin>
+			<xmax>55</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>
